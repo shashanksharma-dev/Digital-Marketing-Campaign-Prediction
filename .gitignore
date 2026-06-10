@@ -1,0 +1,7 @@
+echo ".venv/
+__pycache__/
+*.pkl
+*.ipynb_checkpoints/
+.DS_Store
+model_predictions_for_powerbi.xlsx
+*.csv  # Add specific CSVs if needed, keep requirements.txt/app.py" > .gitignore
